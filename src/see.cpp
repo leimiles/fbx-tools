@@ -4,7 +4,8 @@
 see::see()
 {
     int i = -3;
-    FbxAbs(i);
+    //FbxAbs(i);
+    //FbxInt t = 12;
 }
 
 see::~see()
