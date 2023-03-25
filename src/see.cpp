@@ -1,5 +1,5 @@
 #include "see.h"
-#include "fbxsdk.h"
+//#include "fbxsdk.h"
 
 see::see()
 {
